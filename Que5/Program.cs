@@ -11,12 +11,12 @@ namespace Que5
         static void Main(string[] args)
         {
             var Collection = new CustomList<String>();
-            Collection[0] = "Naresh Varshney";
-            Collection[1] = "Pawan Sharma";
-            Collection[2] = "Narayan Saraswat";
-            Collection[3] = "Sumit Sharma";
-            Collection[4] = "Parth";
-            Console.WriteLine("Bhoopesh's Friendlist : ");
+            Collection[0] = "Akash singh";
+            Collection[1] = "Kanha";
+            Collection[2] = "Devendra sharma";
+            Collection[3] = "Bobby chaudhary";
+            Collection[4] = "Trilok rajput";
+            Console.WriteLine("Akash singh Friends : ");
             for (int i = 0; i < 5; i++)
                 Console.WriteLine(Collection[i]);
         }
