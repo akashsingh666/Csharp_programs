@@ -12,9 +12,9 @@ namespace Que1
         static void Main(string[] args)
         {
             Account account = new Account();
-            account.Balance = 10000;
+            account.Balance = 5000;
             Console.WriteLine("The available balance is : " + account.Balance);
-            account.Balance = 1;
+            account.Balance = 3;
             Console.WriteLine("The available balance is : " + account.Balance);
         }
     }
