@@ -11,8 +11,8 @@ namespace Que3
         static void Main(string[] args)
         {
             Person person = new Person();
-            person.firstName = "Bhoopesh";
-            person.lastName = "Sharma";
+            person.firstName = "Akash";
+            person.lastName = "Singh";
             Console.WriteLine("Full Name is : " + person.fullName);
         }
     }
