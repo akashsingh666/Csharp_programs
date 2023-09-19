@@ -11,17 +11,17 @@ namespace Que7
         static void Main(string[] args)
         {
             Bookshelf bookshelf = new Bookshelf(10);
-            bookshelf.AddBook("Gumshuda", "Santosh Pathak");
-            bookshelf.AddBook("Khalifa", "Ved Praksah Sharma");
-            bookshelf.AddBook("Front Page", "Surandra Mohan Pahak");
-            bookshelf.AddBook("Yagya", "Anil Mohan");
-            bookshelf.AddBook("Nimish", "Anjikya Sharma");
+            bookshelf.AddBook("The India Story", "Bimal Jalal");
+            bookshelf.AddBook("Listen to Your Heart: The London Adventure", "Ruskin Bond");
+            bookshelf.AddBook("Business of Sports: The Winning Formula for Success", "Vinit Karnik");
+            bookshelf.AddBook("A Place Called Home", "Preeti Shenoy");
+            bookshelf.AddBook("Modi @20: Dreams Meeting Delivery", "VP Venkaiah Naidu");
 
-            Console.WriteLine("Author of 'Gumshuda': " + bookshelf["Gumshuda"]);
-            Console.WriteLine("Author of 'Khalifa': " + bookshelf["Khalifa"]);
-            Console.WriteLine("Author of 'Front Page': " + bookshelf["Front Page"]);
-            Console.WriteLine("Author of 'Yagya': " + bookshelf["Yagya"]);
-            Console.WriteLine("Author of 'Nimish': " + bookshelf["Nimish"]);
+            Console.WriteLine("Author of 'The India Story': " + bookshelf["The India Story"]);
+            Console.WriteLine("Author of 'Listen to Your Heart: The London Adventure': " + bookshelf["Listen to Your Heart: The London Adventure"]);
+            Console.WriteLine("Author of 'Business of Sports: The Winning Formula for Success': " + bookshelf["Business of Sports: The Winning Formula for Success"]);
+            Console.WriteLine("Author of 'A Place Called Home': " + bookshelf["A Place Called Home"]);
+            Console.WriteLine("Author of 'Modi @20: Dreams Meeting Delivery': " + bookshelf["Modi @20: Dreams Meeting Delivery"]);
         }
     }
     public class Bookshelf
