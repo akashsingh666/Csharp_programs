@@ -11,9 +11,9 @@ namespace Que2
         static void Main(string[] args)
         {
             Car car = new Car();
-            car.Make = "BMW";
-            car.Model = "X5";
-            car.Year = 2022;
+            car.Make = "Alto";
+            car.Model = "21";
+            car.Year = 2020;
             Console.WriteLine("Car = " + car.Show);
         }
     }
