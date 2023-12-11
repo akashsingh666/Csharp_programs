@@ -1,0 +1,16 @@
+E:\c#\New folder\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+E:\c#\New folder\project1\obj\Debug\project1.Properties.Resources.resources
+E:\c#\New folder\project1\obj\Debug\project1.csproj.GenerateResource.cache
+E:\c#\New folder\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+E:\c#\New folder\project1\obj\Debug\project1.Registrationfrom.resources
+E:\c#\New folder\project1\bin\Debug\project1.exe.config
+E:\c#\New folder\project1\bin\Debug\project1.exe
+E:\c#\New folder\project1\bin\Debug\project1.pdb
+E:\c#\New folder\project1\obj\Debug\project1.exe
+E:\c#\New folder\project1\obj\Debug\project1.pdb
+E:\c#\New folder\project1\obj\Debug\project1.Fees.resources
+E:\c#\New folder\project1\obj\Debug\project1.subjectform.resources
+E:\c#\New folder\project1\obj\Debug\project1.Marks.resources
+E:\c#\New folder\project1\obj\Debug\project1.Login.resources
+E:\c#\New folder\project1\obj\Debug\project1.Facultyform.resources
+E:\c#\New folder\project1\obj\Debug\project1.studentform.resources
